@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*You catch more flies with honey*
 Use the left arrow to go back!
